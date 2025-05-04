@@ -1,1 +1,4 @@
 node_modules
+uitest\cypress\e2e\1-getting-started
+uitest\cypress\support
+uitest\cypress\e2e\2-advanced-examplesc
